@@ -1,0 +1,16 @@
+{
+  "cities": [
+    {
+      "id": "f6c0",
+      "cityName": "Miranda do Douro",
+      "country": "Portugal",
+      "emoji": "PT",
+      "date": "2024-07-27T17:57:15.253Z",
+      "notes": "",
+      "position": {
+        "lat": "41.49994612444999",
+        "lng": "-6.270446777343751"
+      }
+    }
+  ]
+}
