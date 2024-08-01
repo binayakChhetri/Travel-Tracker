@@ -139,12 +139,4 @@ function Form() {
   );
 }
 
-//PROGRAMMATIC NAVIGATION
-import { useNavigate } from "react-router-dom";
-
-function Component() {
-  const navigate = useNavigate();
-  return <button onClick={() => navigate("/home")}>Go Home</button>;
-}
-
 export default Form;
